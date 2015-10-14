@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "371E273D1BCE60E800EE613B"
-               BuildableName = "7_2_haar_like_cat"
-               BlueprintName = "7_2_haar_like_cat"
+               BuildableName = "7_2_haar_like_eye"
+               BlueprintName = "7_2_haar_like_eye"
                ReferencedContainer = "container:003.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -33,8 +33,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "371E273D1BCE60E800EE613B"
-            BuildableName = "7_2_haar_like_cat"
-            BlueprintName = "7_2_haar_like_cat"
+            BuildableName = "7_2_haar_like_eye"
+            BlueprintName = "7_2_haar_like_eye"
             ReferencedContainer = "container:003.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -56,8 +56,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "371E273D1BCE60E800EE613B"
-            BuildableName = "7_2_haar_like_cat"
-            BlueprintName = "7_2_haar_like_cat"
+            BuildableName = "7_2_haar_like_eye"
+            BlueprintName = "7_2_haar_like_eye"
             ReferencedContainer = "container:003.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -75,8 +75,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "371E273D1BCE60E800EE613B"
-            BuildableName = "7_2_haar_like_cat"
-            BlueprintName = "7_2_haar_like_cat"
+            BuildableName = "7_2_haar_like_eye"
+            BlueprintName = "7_2_haar_like_eye"
             ReferencedContainer = "container:003.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
