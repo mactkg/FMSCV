@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  template 
+//  1_image 
 //
 //  Created by Kenta Hara on 2015/10/14.
 //  Copyright © 2015年 Kenta Hara. All rights reserved.

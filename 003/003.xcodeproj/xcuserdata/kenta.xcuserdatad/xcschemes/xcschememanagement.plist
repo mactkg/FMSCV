@@ -12,6 +12,11 @@
 		<key>2_camera.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>3_drawing.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
 	</dict>
@@ -33,6 +38,11 @@
 			<true/>
 		</dict>
 		<key>371E268C1BCE55EB00EE613B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>371E26A81BCE574D00EE613B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
