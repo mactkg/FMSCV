@@ -24,6 +24,16 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
+		<key>5_harr_like.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>6_akaze.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -53,6 +63,16 @@
 			<true/>
 		</dict>
 		<key>371E26C71BCE59A500EE613B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>371E26E71BCE5A8D00EE613B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>371E27041BCE5D2000EE613B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
