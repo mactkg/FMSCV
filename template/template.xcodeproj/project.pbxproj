@@ -90,7 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				371E26711BCE50DB00EE613B /* lib */,
-				371E26491BCE505300EE613B /* template */,
+				371E26491BCE505300EE613B /* src */,
 				371E26481BCE505300EE613B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -103,14 +103,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		371E26491BCE505300EE613B /* template */ = {
+		371E26491BCE505300EE613B /* src */ = {
 			isa = PBXGroup;
 			children = (
 				371E264A1BCE505300EE613B /* main.cpp */,
 			);
-			name = template;
-			path = 001;
-			sourceTree = "<group>";
+			path = src;
+			sourceTree = SOURCE_ROOT;
 		};
 		371E26711BCE50DB00EE613B /* lib */ = {
 			isa = PBXGroup;
