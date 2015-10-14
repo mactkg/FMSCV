@@ -34,6 +34,21 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>7_1_camera_haar_like.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>7_2_haar_like_cat.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>7_3_camera_akaze.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -73,6 +88,21 @@
 			<true/>
 		</dict>
 		<key>371E27041BCE5D2000EE613B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>371E27231BCE60C900EE613B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>371E273D1BCE60E800EE613B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>371E27561BCE60F900EE613B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
