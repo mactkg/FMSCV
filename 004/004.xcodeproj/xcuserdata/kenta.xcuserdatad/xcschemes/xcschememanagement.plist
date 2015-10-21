@@ -19,6 +19,11 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>p1_diff_background_adv.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -33,6 +38,11 @@
 			<true/>
 		</dict>
 		<key>37CA8AF21BD78F1B004ECA1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37CA8B0D1BD792EF004ECA1F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
