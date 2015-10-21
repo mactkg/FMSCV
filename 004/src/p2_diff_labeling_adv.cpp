@@ -47,7 +47,7 @@ int main() {
         smallTarget.copyTo(result, mask);
         
         int n = cv::connectedComponents(mask, label);
-        for (int l = 1; l < n; l++) {
+        for (int l = 1; l < MIN(n, 100); l++) {
             cv::Mat areaMask;
             cv::compare(label, l, areaMask, CV_CMP_EQ);
             cv::rectangle(result, cv::boundingRect(areaMask), cv::Scalar(0, 0, 255), 3);
