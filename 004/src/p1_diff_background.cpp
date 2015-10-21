@@ -8,6 +8,7 @@
 
 
 #include <opencv2/opencv.hpp>
+
 int main() {
     cv::Mat background = cv::imread("background.jpg");
     cv::Mat target = cv::imread("object_and_background.jpg");

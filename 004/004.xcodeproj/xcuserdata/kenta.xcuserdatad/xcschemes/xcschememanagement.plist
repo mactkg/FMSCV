@@ -49,6 +49,11 @@
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
+		<key>p3_segmentation.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -93,6 +98,11 @@
 			<true/>
 		</dict>
 		<key>37CA8B941BD79AC0004ECA1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37CA8BAF1BD79BDF004ECA1F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
