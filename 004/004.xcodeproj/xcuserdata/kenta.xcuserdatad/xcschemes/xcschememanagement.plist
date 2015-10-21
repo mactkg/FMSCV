@@ -54,6 +54,11 @@
 			<key>orderHint</key>
 			<integer>9</integer>
 		</dict>
+		<key>p4_inpainting.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -103,6 +108,11 @@
 			<true/>
 		</dict>
 		<key>37CA8BAF1BD79BDF004ECA1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37CA8BCA1BD7AED6004ECA1F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
