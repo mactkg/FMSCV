@@ -19,6 +19,16 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
+		<key>4_segmentation.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>5_inpainting.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 		<key>p1_diff_background.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -73,6 +83,16 @@
 			<true/>
 		</dict>
 		<key>37CA8B5E1BD79869004ECA1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37CA8B791BD79A2C004ECA1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37CA8B941BD79AC0004ECA1F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
