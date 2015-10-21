@@ -7,14 +7,17 @@
 //
 
 #include <opencv2/opencv.hpp>
+
 int main() {
-    
+    // read as grayscale image
     cv::Mat imgIn = cv::imread("objects.png", cv::IMREAD_GRAYSCALE);
     cv::Mat imgBin;
     cv::Mat imgLabel;
-    
+
+    // binarize
     cv::threshold(imgIn, imgBin, 0, 255, cv::THRESH_BINARY);
-    
+   
+    // make label images
     int n = cv::connectedComponents(imgBin, imgLabel, 8);
     
     for (int label = 0; label<n; label++) {

@@ -18,18 +18,27 @@ int main() {
     cv::Mat mask;
     cv::Mat result;
     
+    // window
     cv::namedWindow("result");
+    
+    // thresh slider
     int thresh = 128;
     cv::createTrackbar("thresh", "result", &thresh, 255);
-    
+   
+    // grayscale
     cv::cvtColor(background, backgroundGray, CV_BGR2GRAY);
     cv::cvtColor(target, targetGray, CV_BGR2GRAY);
+    
+    // get a diff
     cv::absdiff(backgroundGray, targetGray, diff);
     
     while (1){
         result.release();
+       
+        // binarize
         cv::threshold(diff, mask, thresh, 255, cv::THRESH_BINARY);
-        target.copyTo(result, mask);
+        target.copyTo(result, mask); // target ==(mask)==> result
+        
         cv::imshow("result", result);
         
         // ESC

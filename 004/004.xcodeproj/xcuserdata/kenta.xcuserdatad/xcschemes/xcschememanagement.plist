@@ -29,6 +29,11 @@
 			<key>orderHint</key>
 			<integer>8</integer>
 		</dict>
+		<key>experiment_1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
 		<key>p1_diff_background.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -113,6 +118,11 @@
 			<true/>
 		</dict>
 		<key>37CA8BCA1BD7AED6004ECA1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37CA8BE51BD7F487004ECA1F</key>
 		<dict>
 			<key>primary</key>
 			<true/>

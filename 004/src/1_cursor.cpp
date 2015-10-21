@@ -35,7 +35,8 @@ int main() {
     cv::setMouseCallback("input", &mouseEvent);
     
     while (true) {
-        cv::circle( image, cv::Point(mouseX, mouseY), 5, color, CV_FILLED);
+        // draw a pointer
+        cv::circle(image, cv::Point(mouseX, mouseY), 5, color, CV_FILLED);
         cv::imshow("input", image);
        
         // ESC

@@ -13,11 +13,16 @@ int main() {
     cv::Mat imgBinary;
     
     cv::namedWindow("result");
+   
+    // thresh slider
     int thresh = 128;
     cv::createTrackbar("thresh", "result", &thresh, 255);
-    
+   
+    // grayscale
     cv::cvtColor(imgIn, imgGray, CV_BGR2GRAY);
+    
     while (1){
+        // binarize
         cv::threshold(imgGray, imgBinary, thresh, 255, cv::THRESH_BINARY);
         cv::imshow("result", imgBinary);
         
